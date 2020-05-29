@@ -13,5 +13,5 @@ is welcome.
 LICENCE
 -------
 
-Not sure. The "todoapago" SDK has no explicit license. As per GitHub's TOS, we're
+Not sure. The "todopago" SDK has no explicit license. As per GitHub's TOS, we're
 free to copy it and reuse it, but that's all I know.
